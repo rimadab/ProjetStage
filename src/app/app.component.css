@@ -1,0 +1,37 @@
+/* app.component.css */
+
+/* Styling for the weather container */
+.weather-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+
+  /* Styling for the header */
+  h1 {
+    text-align: center;
+    color: #007BFF;
+  }
+
+  /* Styling for the current weather section */
+  .current-weather {
+    background-color: #F0F0F0;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+
+  /* Styling for the forecast weather section */
+  .weather-forecast {
+    background-color: #EFEFEF;
+    padding: 10px;
+  }
+
+  /* Styling for each day's forecast in the weather forecast section */
+  .forecast-day {
+    margin-bottom: 10px;
+    border-bottom: 1px solid #CCCCCC;
+    padding-bottom: 5px;
+  }
+
+  /* Additional styling for specific elements as needed */
